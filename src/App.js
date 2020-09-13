@@ -1,4 +1,5 @@
 import React,{Suspense,lazy}from 'react';
+import 'antd/dist/antd.css';
 import './App.css';
 import Header from './componets/Header';
 import Footer from './componets/Footer';
